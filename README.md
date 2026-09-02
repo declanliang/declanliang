@@ -12,7 +12,7 @@ AI产品经理方向 | 独立开发者
 整合市面主流图片/视频生成模型API，产品分为Model（多模型直连生成）与Tools（图片去水印等细分工具）两大板块。  
 [了解更多 →](https://github.com/declanliang/vidregen)
 
-**🎮 Game Factory**  
+**🎮 Game Wiki Agent**  
 根据游戏名称自动生成游戏攻略Wiki，并完成SEO优化，部署于Cloudflare Workers。  
 [查看仓库 →](https://github.com/declanliang/game-factory)
 
